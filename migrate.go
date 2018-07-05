@@ -1,4 +1,4 @@
-package migrations
+package migrant
 
 import (
 	"gopkg.in/jackc/pgx.v3"
