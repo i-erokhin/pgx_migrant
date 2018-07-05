@@ -1,7 +1,7 @@
 package migrant
 
 import (
-	"gopkg.in/jackc/pgx.v3"
+	"github.com/jackc/pgx"
 )
 
 type MigrationMap struct {

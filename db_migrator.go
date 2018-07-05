@@ -3,7 +3,7 @@ package migrant
 import (
 	"fmt"
 
-	"gopkg.in/jackc/pgx.v3"
+	"github.com/jackc/pgx"
 )
 
 const TableName = "_migration"

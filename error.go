@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"gopkg.in/jackc/pgx.v3"
+	"github.com/jackc/pgx"
 )
 
 type MigrationError struct {
